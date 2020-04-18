@@ -13,10 +13,10 @@ public class Strings {
 		message = message.replace('e', '3');
 		message = message.replace('i', '1'); */
 		
-		//message = message.concat(" Lovely day, isn't it?");
+		message = message.concat(" Lovely day, isn't it?");
 		
-		//message = message.toLowerCase(); //toUpperCase
+		message = message.toLowerCase(); //toUpperCase
 		
-		//System.out.println(message);
+		System.out.println(message);
 	}
 }
